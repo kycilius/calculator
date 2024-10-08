@@ -10,3 +10,4 @@ A stylish calculator with a simple interface. it can do basic arithmatics
 # Technologies Used:
 - HTML5
 - CSS3
+- java script
