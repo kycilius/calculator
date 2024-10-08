@@ -37,25 +37,7 @@
     </div>
 </div>
 
-<script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js'></script>
-<script>
-    function appendToDisplay(value) {
-        document.getElementById("display").value += value;
-    }
-
-    function clearDisplay() {
-        document.getElementById("display").value = '';
-    }
-
-    function calculateResult() {
-        const display = document.getElementById("display");
-        try {
-            display.value = eval(display.value);
-        } catch (e) {
-            display.value = 'Error';
-        }
-    }
-</script>
+<script src="./script.js"></script>
 
 </body>
 
