@@ -4,7 +4,7 @@ A stylish calculator with a simple interface. it can do basic arithmatics
 
 ## Demo 🎉
 You can check out the live version of this project here:  
-[**Proposal Website on GitHub Pages**](https://kycilius.github.io/calculator/)
+[**Calculator Website on GitHub Pages**](https://kycilius.github.io/calculator/)
 
 # Features
 - Responsive layout that adapts to various screen sizes
